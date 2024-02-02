@@ -1,0 +1,8 @@
+#mainContent{ height:470px;maargin-bottom:5px;background:#9ff;}
+#content_left{ width:900px;height:470px;float:left;background:#ffbb00;}
+#con_welcome{width:900px;height:200px;background-color:#666699;margin-top:5px;}
+#con_bott{width:900px;height:260px;background-color:#660099;margin-top:5px;}
+#con_activity{width:440px;height:250px;background-color:#ACF47B;float:left;margin:5px 5px;}
+#con_news{width:440px;height:250px;background-color:#EACEB7;float:left;margin:5px 5px;}
+#content_right{width:500px;height:470px;float:right;background-color:lightgoldenrodyellow;} 
+#rig_blackboard{width:500px;height:460px;background-color:yellow;margin-top:5px;}
